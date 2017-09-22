@@ -1,0 +1,37 @@
+.controlView {
+  background: #b2e0fd;
+  display: inline-block;
+  position: absolute;
+}
+
+.renderView {
+  display: inline-block;
+}
+
+.addCubeBtn {
+  right: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+}
+
+.addSpereBtn {
+  right: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+}
+
+.addCylinderBtn {
+  right: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 80px;
+}
+
+.addBtn {
+  border: 0px;
+  background: #2f76d6;
+  color: white;
+  width: 100px;
+}
